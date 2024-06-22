@@ -1,8 +1,8 @@
-Udacity offers a Nanodegree program designed to equip you with the skills to become a Data Product Manager.
 
 ## Overview:
-
-Harness data to craft products that provide optimal experiences for the right users at the right moments. 
+Data product managers leverage data to guide product development, ensuring products meet user needs and market demands.
+As a core : design & manage data infrastructure, analyze user-data & conduct experiements.
+It bridges the gap between data science, engineering, and business strategy.
 Lead the creation of data-driven products that give businesses a competitive edge.
 
 - Use market data to boost product development. 
